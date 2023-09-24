@@ -1,0 +1,33 @@
+*{
+
+}
+
+#google{
+    background-color: red;
+    text-align: center;
+}
+
+#heading{
+    color: rgb(5, 5, 5);
+    text-align: center;
+    font: bold;
+    font-size: large;
+    margin: 10px;
+    background-color: rgb(243, 239, 7);
+    background-size: 200px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+#footer{
+    color: rgb(5, 5, 5);
+    text-align: center;
+    font: bold;
+    font-size: large;
+    margin: 10px;
+    background-color: aqua;
+    background-size: 200px;
+    border-radius: 10px;
+    border-color: black;
+}
+
