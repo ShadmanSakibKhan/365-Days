@@ -1,0 +1,25 @@
+/* Tag */
+p{
+    color: rgb(0, 0, 0);
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: rgb(0, 0, 0);
+}
+
+/* ID */
+#new{
+    color: aqua;
+}
+
+/* Class */
+.apple{
+    text-align: center;
+    color: rgb(170, 12, 12);
+}
+
+/* Universal */
+*{
+    background-color: rgb(172, 176, 179);
+    color: crimson;
+}
